@@ -323,13 +323,6 @@ MyoneZ is a mobile application backed by a Django REST API. Features and integra
 
 Before production release, verify authentication, API permissions, message delivery, database configuration, and notification behavior.
 
-## Credits
-
-| Role | Contributor |
-|---|---|
-| Backend | [0Junaid0](https://github.com/0Junaid0) ([source repository](https://github.com/0Junaid0/MyoneZ)) |
-| Frontend | [Sejon Hossain](https://github.com/Sejonhossain), [Nusrat Ahmmed Ekra](https://github.com/Nusratekra) |
-
 ## License
 
 No license has been specified yet. Add a `LICENSE` file and update this section before distributing the project publicly.
