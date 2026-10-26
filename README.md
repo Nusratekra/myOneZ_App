@@ -326,3 +326,12 @@ Before production release, verify authentication, API permissions, message deliv
 ## License
 
 No license has been specified yet. Add a `LICENSE` file and update this section before distributing the project publicly.
+
+## Credentials
+
+| Role | Credentials/status |
+|---|---|
+| User | No preset credentials. Sign up in the app with your email and a password of at least 10 characters, then enter the six-digit code. In development the code is printed in the backend terminal. |
+| Mock mode | `USE_MOCK_AUTH = true`: any email and any password work (for example `nusrat@example.com`), and the code is `123456`. |
+
+Never commit real emails, passwords, or API keys.
